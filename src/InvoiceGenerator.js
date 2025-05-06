@@ -209,7 +209,7 @@ const InvoiceGenerator = () => {
         <p>#1289,2nd Cross,6th Main,Kariyanapalya,Uttarahalli,Subramanyapura post,BSK 6th Stage,Banglore-98</p>
       </header>
       <div className="invoice-detailsED">
-        <p>QUOTATION</p>
+        <p>E-BILL</p>
       </div>
 
       <div className="invoice-details">
